@@ -1,11 +1,12 @@
 # Lauritz Tieste
-I am Lauritz Tieste 👋, a Software Developer from Germany. 
 
-I specialize in developing
-- 💻 Websites with HTML, CSS, JavaScript/Typescript with ReactJS or NextJS
-- 📱 Building Apps with Flutter & Dart
+Ich bin Lauritz 👋, ein 16-jähriger Softwareentwickler aus Deutschland.
 
-📧 [Email an mich](mailto:developer.lauritz-tieste@mail.de "Email an Lauritz Tieste senden") 
+Ich spezialisiere mich auf die Entwicklung von:
+- Websites mit NextJS, TailwindCSS oder NuxtJS
+- App-Entwicklung mit Flutter & Dart
+
+📧 [Mail an mich senden](mailto:kontakt@lauritz-tieste.de "Mail an mich senden") 
 
 🛜 [Meine Webseite](https://lauritz-tieste.de "Meine Webseite")
 
